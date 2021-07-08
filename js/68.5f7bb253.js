@@ -1,0 +1,1 @@
+(self["webpackChunkpelicula"]=self["webpackChunkpelicula"]||[]).push([[68],{8068:(e,n,a)=>{"use strict";a.r(n),a.d(n,{default:()=>l});var c=a(3673);function u(e,n,a,u,p,s){const t=(0,c.up)("q-page");return(0,c.wg)(),(0,c.j4)(t,{padding:""})}const p=(0,c.aZ)({name:"MoviePage"});var s=a(4379),t=a(7518),r=a.n(t);p.render=u;const l=p;r()(p,"components",{QPage:s.Z})}}]);
